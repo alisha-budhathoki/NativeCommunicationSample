@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.4/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/device_info_plus-11.5.0/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_pdfview-1.4.1+1/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.28/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.4/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/local_auth_android-1.0.50/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/open_file_android-1.0.6/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/package_info_plus-8.3.0/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/permission_handler_android-13.0.1/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/share_plus-11.0.0/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.10/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/sqflite_android-2.4.1/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.16/android" />
+    <file type="web" url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-4.8.2/android" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$USER_HOME$/development/flutter/packages/flutter_tools/gradle" />
+    <file type="web" url="file://$USER_HOME$/office_projects/global_module/.android/Flutter" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

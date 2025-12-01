@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.it_nomads.fluttersecurestorage",
+    "module": "flutter_secure_storage_profile",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "profileVariantProfileApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_secure_storage_profile-1.0.aar",
+          "url": "flutter_secure_storage_profile-1.0.aar",
+          "size": 26335,
+          "sha512": "f79d75940cf24e80c656a457b301d6c5aac9ac1a5e839f28ec862378166ae921bfd83999554f065957f98f614367fd092a7c4ffd4540c4085b4e4cbe9c854429",
+          "sha256": "73839b3d82f393fcf53b4989e8b3f449ea5717bf1300d1f71a470d250c7ef50e",
+          "sha1": "3d4ccefb0b060c2a7a67e68ef0c746ca156a2686",
+          "md5": "16f2142bbcc49102f5593a2187432741"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_profile",
+          "version": {
+            "requires": "1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72"
+          }
+        },
+        {
+          "group": "androidx.security",
+          "module": "security-crypto",
+          "version": {
+            "requires": "1.1.0-alpha06"
+          }
+        },
+        {
+          "group": "com.google.crypto.tink",
+          "module": "tink-android",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_secure_storage_profile-1.0.aar",
+          "url": "flutter_secure_storage_profile-1.0.aar",
+          "size": 26335,
+          "sha512": "f79d75940cf24e80c656a457b301d6c5aac9ac1a5e839f28ec862378166ae921bfd83999554f065957f98f614367fd092a7c4ffd4540c4085b4e4cbe9c854429",
+          "sha256": "73839b3d82f393fcf53b4989e8b3f449ea5717bf1300d1f71a470d250c7ef50e",
+          "sha1": "3d4ccefb0b060c2a7a67e68ef0c746ca156a2686",
+          "md5": "16f2142bbcc49102f5593a2187432741"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_secure_storage_profile-1.0-sources.jar",
+          "url": "flutter_secure_storage_profile-1.0-sources.jar",
+          "size": 12550,
+          "sha512": "a9840eeb6c3f3d795e8dd12b450e495e7b30ad9b738e6de0d064c3a552fefd29236cff77a59ce4e2b104363f3606e7edd463d9c203a94bcdcda994e71ab4c4ed",
+          "sha256": "a1ed0a9dacd7d9c956e34bb4adcc4178257f4f1937fd5bb5bc65ce002d2fe137",
+          "sha1": "3892d786a3a543a60bcca11fd644619ac5cf7ae9",
+          "md5": "e701504a88b239b46092c10f7a39e61f"
+        }
+      ]
+    },
+    {
+      "name": "profileVariantProfileJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_secure_storage_profile-1.0-javadoc.jar",
+          "url": "flutter_secure_storage_profile-1.0-javadoc.jar",
+          "size": 307679,
+          "sha512": "c33642fafe21475ddf9d0801ac6be11f5a6679d9cf549ec2d31ea915d709e3c784e59f24e7a7b383664e259cfed2596eb4a4fa46a2d23bbf112f74a3d50d9865",
+          "sha256": "7ef55cc2ea9cb96b73af40e8ee7cd9340544e8778ad987a131b7645df0f8bf80",
+          "sha1": "6b0bc59ff431a461cc4965f6cf56dd10f5e455a4",
+          "md5": "5117fc3d2cc4edbb3434ce3808dbf140"
+        }
+      ]
+    }
+  ]
+}

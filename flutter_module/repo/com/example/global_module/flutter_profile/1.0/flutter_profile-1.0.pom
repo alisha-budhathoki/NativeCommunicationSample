@@ -31,12 +31,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter</groupId>
-      <artifactId>x86_64_profile</artifactId>
-      <version>1.0.0-a8bfdfc394deaed5c57bd45a64ac4294dc976a72</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>dev.fluttercommunity.plus.connectivity</groupId>
       <artifactId>connectivity_plus_profile</artifactId>
       <version>1.0</version>

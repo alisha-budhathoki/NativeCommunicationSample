@@ -63,7 +63,7 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.13.1"
+            "requires": "1.17.0"
           }
         },
         {
@@ -77,7 +77,7 @@
           "group": "androidx.browser",
           "module": "browser",
           "version": {
-            "requires": "1.8.0"
+            "requires": "1.9.0"
           }
         }
       ],
@@ -105,11 +105,11 @@
         {
           "name": "url_launcher_android_profile-1.0-sources.jar",
           "url": "url_launcher_android_profile-1.0-sources.jar",
-          "size": 9243,
-          "sha512": "0ade3dfca0016c5fa6fd5ea43031071892419ca6ed92edde8f058cd7dbe7df0f94e2db41413ab738bdfaec70c1e1de548465ccdb7d9c72d2445e8336bc356fa5",
-          "sha256": "322cdff4960c155dc53689f2199b26f2c6c42fc3c5e61f3d40bbd0d597573974",
-          "sha1": "99fe893afef51babaeab188cd76d4dd21130cf17",
-          "md5": "dda9600c4c431c01dee7d315c6e6c1d4"
+          "size": 9242,
+          "sha512": "29a9a51605b3b668076bc3bb70cdd13e5638067e4ca1eaa2df604991ebc1da6fe84f671603fe31e2ef775f86dbf35e0c3e6e994ac48210ba77b9ab2e6f3d1e36",
+          "sha256": "28a118dbbe2d288d44c73d37c8297bc82da02bd1c85ecf15b8f7c2950ccc1535",
+          "sha1": "7ecdc9e1d34de1ad1ed1dfa4ac5d1baf2d80cbde",
+          "md5": "b6f2036cfeae530eb225a9109965ea68"
         }
       ]
     },

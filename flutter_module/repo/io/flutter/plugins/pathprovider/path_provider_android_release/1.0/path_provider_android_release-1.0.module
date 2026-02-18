@@ -35,11 +35,11 @@
         {
           "name": "path_provider_android_release-1.0.aar",
           "url": "path_provider_android_release-1.0.aar",
-          "size": 10380,
-          "sha512": "7b343cb7aa3b9fa94edd9a221527c1a70f7b84ddff55ea1b0c9cdd1acf1497452e0067cfd1202ecf1570137cf07dfc1119594da111f6be112ab97be6ad890f98",
-          "sha256": "38d226d89f5abc851752c2b6705c3a900c23d6eb248aeb5887109e56cd555b9c",
-          "sha1": "d9aac4d528e692966f42c3b90e9c987f660d0ee3",
-          "md5": "13a3ee61af1830d6117d21ad1838a3dd"
+          "size": 10347,
+          "sha512": "5bbeeb17d2629753c93208965e80aa883ceea5d10c038c637fba208f037da74e32da0503e698aadda74aafe58ff2c91bcd459def512b13fa410ff9ff50619349",
+          "sha256": "1c4a04ceebfc108e36907f514101fc21bcf14641b139ab09fa542947d339e49f",
+          "sha1": "00f50fe45dabc06fa1705eff3cda976b445d2a48",
+          "md5": "229bf13ebbd79af8ebc110a2d4daafbd"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "path_provider_android_release-1.0.aar",
           "url": "path_provider_android_release-1.0.aar",
-          "size": 10380,
-          "sha512": "7b343cb7aa3b9fa94edd9a221527c1a70f7b84ddff55ea1b0c9cdd1acf1497452e0067cfd1202ecf1570137cf07dfc1119594da111f6be112ab97be6ad890f98",
-          "sha256": "38d226d89f5abc851752c2b6705c3a900c23d6eb248aeb5887109e56cd555b9c",
-          "sha1": "d9aac4d528e692966f42c3b90e9c987f660d0ee3",
-          "md5": "13a3ee61af1830d6117d21ad1838a3dd"
+          "size": 10347,
+          "sha512": "5bbeeb17d2629753c93208965e80aa883ceea5d10c038c637fba208f037da74e32da0503e698aadda74aafe58ff2c91bcd459def512b13fa410ff9ff50619349",
+          "sha256": "1c4a04ceebfc108e36907f514101fc21bcf14641b139ab09fa542947d339e49f",
+          "sha1": "00f50fe45dabc06fa1705eff3cda976b445d2a48",
+          "md5": "229bf13ebbd79af8ebc110a2d4daafbd"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "path_provider_android_release-1.0-sources.jar",
           "url": "path_provider_android_release-1.0-sources.jar",
-          "size": 4153,
-          "sha512": "8d0620e879a6668a7dcb1b54091eac971c86c0f1013d78c2728018c501598d095e00f47e47c7742978594c39df41cb896eb9d9a91c73453f6ebec7f3e3b409c2",
-          "sha256": "526f898c1240196664c940f06843d55dd7f6717365c167c476386277cca3d15c",
-          "sha1": "9bc69e92e2ab37ebea4cb511e4072550fe34d36a",
-          "md5": "b5f0db6ff8f305f4a799b8b39e4da48d"
+          "size": 4121,
+          "sha512": "98abfe49b0c49012cf74c573e26b0af84ff0b734f9b13ef74b5ee09b3731a8f699a41cbad0060a6f53788a35b595f6cea8b6d24a9b28fc28c55faf578ea78335",
+          "sha256": "95e5edc3e2309e7fe549d0d67b05848a141eb5ea996c7e68ce2990e32191cb46",
+          "sha1": "e0c3107497e5fa098fb6a873e214796778aee5d7",
+          "md5": "6fb2208a851ccf1b24b54473fb99bc03"
         }
       ]
     },

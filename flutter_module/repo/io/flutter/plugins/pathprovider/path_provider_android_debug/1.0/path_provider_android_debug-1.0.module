@@ -35,11 +35,11 @@
         {
           "name": "path_provider_android_debug-1.0.aar",
           "url": "path_provider_android_debug-1.0.aar",
-          "size": 10809,
-          "sha512": "1e43aadf8743080c912faea886fb53cfa3c6e095abc22d2cb98c9843cd10b042d2b2f3cf58e9a1beffe7bf4ebe00cdf0a51e13316e52e6a26120f257f1c3c397",
-          "sha256": "bf82481c1e104a28682bd741ec528f4c07123eea5cba006465ddfcbbff6101f0",
-          "sha1": "13a589e605bbe8ecb479eb6dd2e5c7c5ecd542e9",
-          "md5": "d26bceaf772a1a4315d809b6aeece819"
+          "size": 10766,
+          "sha512": "aa254c15dca8aab8a482904510a0ef4a22f340828d0e96ab265d74923fdad188223afb9e1b8a76ee96502096b7bfca914e817f6c7d688a4d6f4bde0eef44ffc4",
+          "sha256": "6914525555cc511f633dc438e48b406375f4d41a07435c9ccca9c0e40e85f477",
+          "sha1": "0c3e01f5e8a547cc7cc51b325023a0d7ea48f9e9",
+          "md5": "db7eb4622b6799c675e2339b855cbb26"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "path_provider_android_debug-1.0.aar",
           "url": "path_provider_android_debug-1.0.aar",
-          "size": 10809,
-          "sha512": "1e43aadf8743080c912faea886fb53cfa3c6e095abc22d2cb98c9843cd10b042d2b2f3cf58e9a1beffe7bf4ebe00cdf0a51e13316e52e6a26120f257f1c3c397",
-          "sha256": "bf82481c1e104a28682bd741ec528f4c07123eea5cba006465ddfcbbff6101f0",
-          "sha1": "13a589e605bbe8ecb479eb6dd2e5c7c5ecd542e9",
-          "md5": "d26bceaf772a1a4315d809b6aeece819"
+          "size": 10766,
+          "sha512": "aa254c15dca8aab8a482904510a0ef4a22f340828d0e96ab265d74923fdad188223afb9e1b8a76ee96502096b7bfca914e817f6c7d688a4d6f4bde0eef44ffc4",
+          "sha256": "6914525555cc511f633dc438e48b406375f4d41a07435c9ccca9c0e40e85f477",
+          "sha1": "0c3e01f5e8a547cc7cc51b325023a0d7ea48f9e9",
+          "md5": "db7eb4622b6799c675e2339b855cbb26"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "path_provider_android_debug-1.0-sources.jar",
           "url": "path_provider_android_debug-1.0-sources.jar",
-          "size": 4153,
-          "sha512": "8d0620e879a6668a7dcb1b54091eac971c86c0f1013d78c2728018c501598d095e00f47e47c7742978594c39df41cb896eb9d9a91c73453f6ebec7f3e3b409c2",
-          "sha256": "526f898c1240196664c940f06843d55dd7f6717365c167c476386277cca3d15c",
-          "sha1": "9bc69e92e2ab37ebea4cb511e4072550fe34d36a",
-          "md5": "b5f0db6ff8f305f4a799b8b39e4da48d"
+          "size": 4121,
+          "sha512": "98abfe49b0c49012cf74c573e26b0af84ff0b734f9b13ef74b5ee09b3731a8f699a41cbad0060a6f53788a35b595f6cea8b6d24a9b28fc28c55faf578ea78335",
+          "sha256": "95e5edc3e2309e7fe549d0d67b05848a141eb5ea996c7e68ce2990e32191cb46",
+          "sha1": "e0c3107497e5fa098fb6a873e214796778aee5d7",
+          "md5": "6fb2208a851ccf1b24b54473fb99bc03"
         }
       ]
     },

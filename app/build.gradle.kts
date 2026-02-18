@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.native_communication"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.native_communication"
@@ -51,6 +51,7 @@ configurations {
 }
 
 dependencies {
+    implementation(project(":flutter"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -61,8 +62,8 @@ dependencies {
     implementation(libs.androidx.material3)
 
     // Flutter dependencies - use ONLY ONE approach
-    debugImplementation(libs.flutter.debug)
-    releaseImplementation(libs.flutter.release)
+//    debugImplementation(libs.flutter.debug)
+//    releaseImplementation(libs.flutter.release)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
